@@ -1,0 +1,24 @@
+{
+  "name": "express-intro-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cazier92/express-intro-lab.git"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cazier92/express-intro-lab/issues"
+  },
+  "homepage": "https://github.com/Cazier92/express-intro-lab#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
